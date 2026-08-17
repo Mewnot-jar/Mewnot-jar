@@ -57,10 +57,10 @@
 <p align="center">¿Charlamos de datos, de algún proyecto, o simplemente de Hyprland? Aquí me encuentras 👇</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Mewnot-jar">
+  <a href="https://www.linkedin.com/in/martin-ardiles-ardiles-376b79228/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:martinardiles.a@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
