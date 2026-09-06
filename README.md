@@ -38,6 +38,7 @@
 
 | Proyecto | Descripción |
 |---|---|
+| **shopify-gcp-pipeline** | Pipeline de datos que extrae información de una tienda Shopify (productos, órdenes y clientes) y la lleva a través de una arquitectura medallion (bronze → silver → gold) usando Google Cloud Platform |
 | **raw-data-pipeline** | Pipeline en Python que ingesta datasets de Kaggle vía Google Drive hacia MinIO (raw → bronze) |
 | **telecom-retail-analytics** | Modelo PostgreSQL + Power BI de práctica para retail de telecomunicaciones: 9 vistas analíticas (ventas, metas, churn, NPS) con DAX y RLS |
 | **front-reco-bot-react** | Frontend en React (deploy en Vercel) para un recordatorio de tareas — acá se agregan y gestionan los pendientes |
